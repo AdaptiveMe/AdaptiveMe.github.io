@@ -68,9 +68,16 @@
 <h2>
 <a name="project-organisation" class="anchor" href="#project-organisation"><span class="octicon octicon-link"></span></a>Project Organisation</h2>
 
-<p><img src="https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/images/project-packages.png" alt="Project Packages"></p>
+<p>There are 2 types of projects; API and Implementation &amp; Runtime Projects.</p>
 
-<p>Pending...</p>
+<ul>
+<li>
+<strong>API Projects</strong> – Represent the common interfaces and implementation for the different language domains – Java, CSharp, Objective-C, etc. – that all platform implementations must adhere to. This project is tightly governed to ensure that all platform implementations contain the same functionality at function and parameter level.</li>
+<li>
+<strong>Implementation &amp; Runtime Projects</strong> – Represent the platform specific implementations – iOS, Android, etc. – of the common interfaces defined in the API Projects. These projects also contain the runtime specific code used to build a platform specific application – icons, splash screens, signatures, etc. – for the supported platforms.</li>
+</ul><p>The following diagram illustrates the repository organisation with the different API and Implementation &amp; Runtime Projects:</p>
+
+<p><img src="https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/images/project-packages.png" alt="Project Packages"></p>
 
 <h2>
 <a name="contributing" class="anchor" href="#contributing"><span class="octicon octicon-link"></span></a>Contributing</h2>
@@ -387,6 +394,16 @@ Licensed under Apache Public License v2.0.
       </div>
     </div>
 
-  
+            <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+          </script>
+          <script type="text/javascript">
+            try {
+              var pageTracker = _gat._getTracker("UA-43736133-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+          </script>
+
   </body>
 </html>
