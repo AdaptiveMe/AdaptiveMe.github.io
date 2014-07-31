@@ -1,4 +1,4 @@
-## Welcome to the Adaptive Runtime Platform (ARP) Project
+## Adaptive Runtime Platform (ARP) Project
 This is the AdaptiveMe Runtime Platform project site, here you will find general information about Adaptive, the organisation of the project and its subprojects, how to contribute and how to communicate with other contributors and committers of the project. This project is curated by @carloslozano. Welcome!
 
 ### What is Adaptive?
