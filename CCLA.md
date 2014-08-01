@@ -6,7 +6,7 @@ In order to clarify the intellectual property license granted with Contributions
 
 This version of the Agreement allows an entity (the "Corporation") to submit Contributions to Adaptive, to authorize Contributions submitted by its designated employees to Adaptive, and to grant copyright and patent licenses thereto. If you have not already done so, please complete and send an original signed agreement.
 
-Scanned agreements should be emailed in PDF form to [contributors@adaptive.me](mailto:contributors@adaptive.me) with the email subject being "[CLA] <Company Name>", where <Company Name> is the name of the Corportation.
+Scanned agreements should be emailed in PDF form to [contributors@adaptive.me](mailto:contributors@adaptive.me) with the email subject being "[CLA] COMPANY", where COMPANY is the name of the Corportation.
 
 
 ```

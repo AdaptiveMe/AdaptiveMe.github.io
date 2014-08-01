@@ -4,7 +4,7 @@ https://developers.Adaptive.com/open-source/cla/individual
 
 In order to clarify the intellectual property license granted with Contributions from any person or entity, Adaptive SLNC ("Adaptive") must have a Contributor License Agreement ("CLA") on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of Adaptive; it does not change your rights to use your own Contributions for any other purpose. If you have not already done so, please complete and send an original signed agreement.
 
-Scanned agreements should be emailed in PDF form to [contributors@adaptive.me](mailto:contributors@adaptive.me) with the email subject being "[CLA] <Your Name>".
+Scanned agreements should be emailed in PDF form to [contributors@adaptive.me](mailto:contributors@adaptive.me) with the email subject being "[CLA] YOURNAME".
 
 Please read this document carefully before signing and keep a copy for your records.
 
