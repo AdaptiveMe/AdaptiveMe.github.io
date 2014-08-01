@@ -51,8 +51,8 @@ Contributions to any Adaptive project are subject to the [Apache Public License 
 
 You generally only need to submit a CLA once, so if you've already submitted one for any of the Adaptive projects then you probably don't need to do it again.
 
-[individual CLA]: https://developers.google.com/open-source/cla/individual
-[corporate CLA]: https://developers.google.com/open-source/cla/corporate
+[individual CLA]: https://github.com/AdaptiveMe/AdaptiveMe.github.io/blob/master/ICLA.md
+[corporate CLA]: https://github.com/AdaptiveMe/AdaptiveMe.github.io/blob/master/CCLA.md
 [Apache Public License v2.0]: http://www.apache.org/licenses/LICENSE-2.0.html
 
 
