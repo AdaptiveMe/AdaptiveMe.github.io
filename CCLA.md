@@ -1,6 +1,6 @@
 # Adaptive Software Grant and Corporate Contributor License Agreement, v1.1
 
-https://developers.Adaptive.com/open-source/cla/corporate
+[https://github.com/AdaptiveMe/AdaptiveMe.github.io/blob/master/CCLA.pdf?raw=true](https://github.com/AdaptiveMe/AdaptiveMe.github.io/blob/master/CCLA.pdf?raw=true)
 
 In order to clarify the intellectual property license granted with Contributions from any person or entity, Adaptive SLNC. ("Adaptive") must have a Contributor License Agreement (CLA) on file that has been signed by each Contributor, indicating agreement to the license terms below. This license is for your protection as a Contributor as well as the protection of Adaptive and its users; it does not change your rights to use your own Contributions for any other purpose.
 
