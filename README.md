@@ -1,7 +1,11 @@
-## Adaptive Runtime Platform (ARP) Project
-This is the AdaptiveMe Runtime Platform project site, here you will find general information about Adaptive, the organisation of the project and its subprojects, how to contribute and how to communicate with other contributors and committers of the project. This project is curated by @carloslozano. Welcome!
+# The Adaptive.me Project
+[![adaptive.me](https://img.shields.io/badge/adaptive-me-orange.svg)](http://adaptive.me)
+[![Adaptive Runtime Platform](https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/assets/logos/arp_for_Runtime.png)](#)
 
-### What is Adaptive?
+## Adaptive Runtime Platform (ARP) Project
+This is the Adaptive.me project site, here you will find general information about Adaptive, the organisation of the project and its subprojects, how to contribute and how to communicate with other contributors and committers of the project. This project is curated by [Carlos Lozano Diez](https://github.com/carloslozano). Welcome!
+
+### What is Adaptive.me?
 Adaptive is a multi-platform, multi-screen app development and build environment that provides the right tools crafted for and by developers, designers and testers like you. We strive to build a better way to create HTML5 hybrid apps for mobile, web and everywhere. 
 
 Adaptive is comprised of a series of PaaS (Platform-As-A-Service) development tools and build services and open-source runtimes to encapsulate hybrid apps on a diversity of platforms. The Adaptive Runtime Platform (ARP) represents all the open-source portions of the platform to facilitate co-creation, contribution and build a community around our project!
