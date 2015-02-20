@@ -32,8 +32,7 @@ The Adaptive Runtime Platform (ARP) provides these native "containers" to packag
 ###### Specifications 
 * [![Adaptive Runtime Platform API Specifications](https://img.shields.io/badge/arp-specs-lightgrey.svg)](https://github.com/AdaptiveMe/adaptive-arp-api) - One specification to rule them all!
 
-###### Status
-
+###### Project Status Overview
 
 | Project | Build Status | Latest Version | Code Quality |
 | ------- | ------------ | -------------- | ------------ |
