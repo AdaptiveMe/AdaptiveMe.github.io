@@ -10,7 +10,7 @@ Adaptive is comprised of a series of PaaS (Platform-As-A-Service) development to
 
 For more information please visit <http://adaptive.me>. And, yes, we need to make some money at some stage to feed our developers and pet hamsters - yours truly included - all donations of funds and materials for the development and support of these open-source projects are very welcome. Codingly yours, [Carlos](https://github.com/carloslozano)! 
 
-### Ideas, Suggestions and Requirements
+## Ideas, Suggestions and Requirements
 If you have any ideas, suggestions or requirements that affect the whole Adaptive Runtime Platform (ARP), please open an issue [here](https://github.com/AdaptiveMe/AdaptiveMe.github.io/issues). We welcome any contributions to make the Adaptive Runtime Platform (ARP) better:
 
 * Ideas - things that would be really cool to add to the platform.
@@ -30,7 +30,7 @@ Submit your ideas/suggestions/requirements [here](https://github.com/AdaptiveMe/
 
 We'd *love to accept your patches and contributions to this project*.  There are a just a few small guidelines you need to follow to ensure that you and/or your company and our project are safeguarded from inadvertent copyright infringement. I know, this can be a pain but we want fair-play from the very start so that we're all on the same page. Please refer to the [project site](http://adaptiveme.github.io) for more information.
 
-### Governance
+## Governance
 
 This project is curated by [Carlos Lozano][] and [Adaptive.me]. Committers to the project have the right to accept pull requests from contributors. Contributions that do not adhere to the positive karma and spirit of the project may be rejected. Objections may be raised to the curator of the project by [mail](mailto:carlos@adaptive.me). 
 
