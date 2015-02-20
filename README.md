@@ -1,7 +1,7 @@
 # The Adaptive.me Project
 [![adaptive.me](https://img.shields.io/badge/adaptive-me-orange.svg)](http://adaptive.me)
 
-[![adaptive.me](https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/assets/logos/adaptive_logo.png))(http://adaptive.me)
+[![adaptive.me](https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/assets/logos/adaptive_logo.png)](http://adaptive.me)
 
 ## What is Adaptive.me?
 Adaptive is a multi-platform, multi-screen app development and build environment that provides the right tools crafted for and by developers, designers and testers like you. We strive to build a better way to create HTML5 hybrid apps for mobile, web and everywhere. 
