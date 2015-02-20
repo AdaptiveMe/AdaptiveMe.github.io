@@ -32,6 +32,30 @@ The Adaptive Runtime Platform (ARP) provides these native "containers" to packag
 ###### Specifications 
 * [![Adaptive Runtime Platform API Specifications](https://img.shields.io/badge/arp-specs-lightgrey.svg)](https://github.com/AdaptiveMe/adaptive-arp-api) - One specification to rule them all!
 
+###### Status
+
+
+| Project | Build Status | Latest Version | Code Quality |
+| ------- | ------------ | -------------- | ------------ |
+
+| [![Adaptive Runtime Platform API Specifications](https://img.shields.io/badge/arp-specs-lightgrey.svg)](https://github.com/AdaptiveMe/adaptive-arp-api) | [![Build Status](https://travis-ci.org/AdaptiveMe/adaptive-arp-api.svg?branch=master)](https://travis-ci.org/AdaptiveMe/adaptive-arp-api) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/adaptive-arp-api.svg)](https://github.com/AdaptiveMe/adaptive-arp-api) | |
+
+| [![Adaptive Library for TypeScript](https://img.shields.io/badge/arp-typescript-0174c1.svg)](https://github.com/AdaptiveMe/adaptive-arp-typescript) | [![Build Status](https://api.travis-ci.org/AdaptiveMe/adaptive-arp-typescript.svg?branch=master)](https://travis-ci.org/AdaptiveMe/adaptive-arp-typescript) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/adaptive-arp-typescript.svg)](https://github.com/AdaptiveMe/adaptive-arp-typescript) | [![Codacy Badge](https://www.codacy.com/project/badge/e88afab095404cdd88b70de43df182de)](https://www.codacy.com/public/carlos/adaptive-arp-javascript) |
+
+| [![Adaptive Library for JavaScript](https://img.shields.io/badge/arp-javascript-yellow.svg)](https://github.com/AdaptiveMe/adaptive-arp-javascript) | [![Build Status](https://api.travis-ci.org/AdaptiveMe/adaptive-arp-javascript.svg?branch=master)](https://travis-ci.org/AdaptiveMe/adaptive-arp-javascript) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/adaptive-arp-javascript.svg)](https://github.com/AdaptiveMe/adaptive-arp-javascript) | [![Codacy Badge](https://www.codacy.com/project/badge/e88afab095404cdd88b70de43df182de)](https://www.codacy.com/public/carlos/adaptive-arp-javascript) |
+
+| [![Adaptive Manager for Bower](https://img.shields.io/badge/arp-bower-yellow.svg)](https://github.com/AdaptiveMe/bower-adaptiveme) | [![Build Status](https://travis-ci.org/AdaptiveMe/bower-adaptiveme.svg?branch=master)](https://travis-ci.org/AdaptiveMe/bower-adaptiveme) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/bower-adaptiveme.svg)](https://github.com/AdaptiveMe/bower-adaptiveme) |  |
+
+| [![Adaptive Generator for Yeoman](https://img.shields.io/badge/arp-yeoman-yellow.svg)](https://github.com/AdaptiveMe/generator-adaptiveme) | [![Build Status](https://travis-ci.org/AdaptiveMe/generator-adaptiveme.svg?branch=master)](https://travis-ci.org/AdaptiveMe/generator-adaptiveme) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/generator-adaptiveme.svg)](https://github.com/AdaptiveMe/generator-adaptiveme) |  |
+
+| [![Adaptive Runtime Platform for iOS/OSX](https://img.shields.io/badge/arp-ios/osx-cccccc.svg)](https://github.com/AdaptiveMe/adaptive-arp-darwin) | [![Build Status](https://travis-ci.org/AdaptiveMe/adaptive-arp-darwin.svg?branch=master)](https://travis-ci.org/AdaptiveMe/adaptive-arp-darwin) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/adaptive-arp-darwin.svg)](https://github.com/AdaptiveMe/adaptive-arp-darwin) |  |
+
+| [![Adaptive Runtime Platform for Android](https://img.shields.io/badge/arp-android-a4c639.svg)](https://github.com/AdaptiveMe/adaptive-arp-android) | [![Build Status](https://travis-ci.org/AdaptiveMe/adaptive-arp-android.svg?branch=master)](https://travis-ci.org/AdaptiveMe/adaptive-arp-android) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/adaptive-arp-android.svg)](https://github.com/AdaptiveMe/adaptive-arp-android) | |
+
+| [![Adaptive Runtime Platform for Windows](https://img.shields.io/badge/arp-windows-00bcf2.svg)](https://github.com/AdaptiveMe/adaptive-arp-windows) | [![Build Status](https://travis-ci.org/AdaptiveMe/adaptive-arp-windows.svg?branch=master)](https://travis-ci.org/AdaptiveMe/adaptive-arp-windows) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/adaptive-arp-windows.svg)](https://github.com/AdaptiveMe/adaptive-arp-windows) |  |
+
+| [![Adaptive Runtime Platform for JavaFX](https://img.shields.io/badge/arp-javafx-e76f00.svg)](https://github.com/AdaptiveMe/adaptive-arp-javafx) | [![Build Status](https://travis-ci.org/AdaptiveMe/adaptive-arp-javafx.svg?branch=master)](https://travis-ci.org/AdaptiveMe/adaptive-arp-javafx) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/adaptive-arp-javafx.svg)](https://github.com/AdaptiveMe/adaptive-arp-javafx) |  |
+
 ## Ideas, Suggestions and Requirements
 If you have any ideas, suggestions or requirements that affect the whole Adaptive Runtime Platform (ARP), please open an issue [here](https://github.com/AdaptiveMe/AdaptiveMe.github.io/issues). We welcome any contributions to make the Adaptive Runtime Platform (ARP) better:
 
