@@ -18,7 +18,20 @@ Hybrid apps are applications that are built using HTML5/CSS3/JavaScript web tech
 
 The Adaptive Runtime Platform (ARP) provides these native "containers" to package apps for the main mobile, wearable and desktop platforms... and other platforms as they emerge. Adaptive Runtime Platform (ARP) and sub-projects are open-source under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html). The Adaptive Runtime Platform (ARP) project was created by [Carlos Lozano Diez](https://github.com/carloslozano) as part of the [adaptive.me](http://adaptive.me) set of products.
 #### Repositories
-* [![Adaptive Runtime Platform API Specifications](https://img.shields.io/badge/arp-specs-lightgrey.svg)](https://github.com/AdaptiveMe/adaptive-arp-api) - Adaptive Runtime Platform API Specifications
+###### For App Developers
+* [![Adaptive Library for TypeScript](https://img.shields.io/badge/arp-typescript-0174c1.svg)](https://github.com/AdaptiveMe/adaptive-arp-typescript) - Libraries for those who like it typed.
+* [![Adaptive Library for JavaScript](https://img.shields.io/badge/arp-javascript-yellow.svg)](https://github.com/AdaptiveMe/adaptive-arp-javascript) - Libraries for those who like to drive stick.
+* [![Adaptive Manager for Bower](https://img.shields.io/badge/arp-bower-yellow.svg)](https://github.com/AdaptiveMe/bower-adaptiveme) - Manager for those who like to control their package(s).
+* [![Adaptive Generator for Yeoman](https://img.shields.io/badge/arp-yeoman-yellow.svg)](https://github.com/AdaptiveMe/generator-adaptiveme) - Generator for those who want a kickstart.
+
+###### For Platform Developers
+* [![Adaptive Runtime Platform for iOS/OSX](https://img.shields.io/badge/arp-ios/osx-cccccc.svg)](https://github.com/AdaptiveMe/adaptive-arp-darwin) - Runtime for those who like apples.
+* [![Adaptive Runtime Platform for Android](https://img.shields.io/badge/arp-android-a4c639.svg)](https://github.com/AdaptiveMe/adaptive-arp-android) - Runtime for those who like cute robots.
+* [![Adaptive Runtime Platform for Windows](https://img.shields.io/badge/arp-windows-00bcf2.svg)](https://github.com/AdaptiveMe/adaptive-arp-windows) - Runtime for those who fly through windows.
+* [![Adaptive Runtime Platform for JavaFX](https://img.shields.io/badge/arp-javafx-e76f00.svg)](https://github.com/AdaptiveMe/adaptive-arp-javafx) - Runtime for those who need it on many desktops.
+
+###### Specifications 
+* [![Adaptive Runtime Platform API Specifications](https://img.shields.io/badge/arp-specs-lightgrey.svg)](https://github.com/AdaptiveMe/adaptive-arp-api) - One specification to rule them all!
 
 ## Ideas, Suggestions and Requirements
 If you have any ideas, suggestions or requirements that affect the whole Adaptive Runtime Platform (ARP), please open an issue [here](https://github.com/AdaptiveMe/AdaptiveMe.github.io/issues). We welcome any contributions to make the Adaptive Runtime Platform (ARP) better:
