@@ -1,5 +1,5 @@
 # The Adaptive.me Project
-[![adaptive.me](https://img.shields.io/badge/adaptive-me-orange.svg)](http://adaptive.me)
+[![adaptive.me](https://img.shields.io/badge/adaptive-me-fdcb0e.svg)](http://adaptive.me)
 
 [![adaptive.me](https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/assets/logos/adaptive_logo.png)](http://adaptive.me)
 
