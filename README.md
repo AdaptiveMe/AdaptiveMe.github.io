@@ -55,10 +55,6 @@ If you have any ideas, suggestions or requirements that affect the whole Adaptiv
 
 Submit your ideas/suggestions/requirements [here](https://github.com/AdaptiveMe/AdaptiveMe.github.io/issues).
 
-## Overall Task Status
-
-[![Throughput Graph](https://graphs.waffle.io/adaptiveme/adaptiveme.github.io/throughput.svg)](https://waffle.io/adaptiveme/adaptiveme.github.io/metrics)
-
 ## Support and Contact
 
 * If you're seeking technical help, head over to [StackOverflow](http://stackoverflow.com/) to ask your question and tag it as **adaptiveme** - we might not see the question if you don't tag it. 
