@@ -1,5 +1,7 @@
 # The Adaptive.me Project [![adaptive.me](https://img.shields.io/badge/adaptive-me-fdcb0e.svg)](http://adaptive.me) [![Stories in Ready](https://badge.waffle.io/adaptiveme/adaptiveme.github.io.svg?label=ready&title=Ready)](http://waffle.io/adaptiveme/adaptiveme.github.io)
 
+[![Join the chat at https://gitter.im/AdaptiveMe/AdaptiveMe.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AdaptiveMe/AdaptiveMe.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![adaptive.me](https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/assets/logos/adaptive_logo.png)](http://adaptive.me) 
 
 ## What is Adaptive.me?
