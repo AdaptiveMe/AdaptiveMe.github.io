@@ -20,8 +20,10 @@ The Adaptive Runtime Platform (ARP) provides these native "containers" to packag
 ###### For App Developers
 * [![Adaptive Library for TypeScript](https://img.shields.io/badge/arp-typescript-0174c1.svg)](https://github.com/AdaptiveMe/adaptive-arp-typescript) - Libraries for those who like it typed.
 * [![Adaptive Library for JavaScript](https://img.shields.io/badge/arp-javascript-yellow.svg)](https://github.com/AdaptiveMe/adaptive-arp-javascript) - Libraries for those who like to drive stick.
-* [![Adaptive Manager for Bower](https://img.shields.io/badge/arp-bower-yellow.svg)](https://github.com/AdaptiveMe/bower-adaptiveme) - Manager for those who like to control their package(s).
-* [![Adaptive Generator for Yeoman](https://img.shields.io/badge/arp-yeoman-yellow.svg)](https://github.com/AdaptiveMe/generator-adaptiveme) - Generator for those who want a kickstart.
+* [![Adaptive Manager for Bower](https://img.shields.io/badge/devtools-bower-yellow.svg)](https://github.com/AdaptiveMe/bower-adaptiveme) - Manager for those who like to control their package(s).
+* [![Adaptive Generator for Yeoman](https://img.shields.io/badge/devtools-yeoman-yellow.svg)](https://github.com/AdaptiveMe/generator-adaptiveme) - Generator for those who want a kickstart.
+* [![Adaptive Nibble for NodeJS](https://img.shields.io/badge/devtools-nibble-yellow.svg)](https://github.com/AdaptiveMe/npm-adaptiveme-nibble) - Simulator for those who like it on the desktop.
+* [![Adaptive OpenSDK for NodeJS](https://img.shields.io/badge/devtools-opensdk-yellow.svg)](https://github.com/AdaptiveMe/npm-adaptiveme-jre) - Dependencies for those who don't like surprises.
 
 ###### For Platform Developers
 * [![Adaptive Runtime Platform for iOS/OSX](https://img.shields.io/badge/arp-ios/osx-cccccc.svg)](https://github.com/AdaptiveMe/adaptive-arp-darwin) - Runtime for those who like apples.
