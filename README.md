@@ -1,4 +1,4 @@
-# The Adaptive.me Project [![adaptive.me](https://img.shields.io/badge/adaptive-me-fdcb0e.svg)](http://adaptive.me) [![Stories in Ready](https://badge.waffle.io/adaptiveme/adaptiveme.github.io.svg?label=ready&title=Ready)](http://waffle.io/adaptiveme/adaptiveme.github.io)
+# The Adaptive.me Project [![adaptive.me](https://img.shields.io/badge/adaptive-me-fdcb0e.svg)](http://adaptive.me) 
 
 [![adaptive.me](https://raw.githubusercontent.com/AdaptiveMe/AdaptiveMe.github.io/master/assets/logos/adaptive_logo.png)](http://adaptive.me) 
 
@@ -54,6 +54,10 @@ The Adaptive Runtime Platform (ARP) provides these native "containers" to packag
 | [![Adaptive Manager for Bower](https://img.shields.io/badge/devtools-bower-yellow.svg)](https://github.com/AdaptiveMe/bower-adaptiveme) | [![Build Status](https://travis-ci.org/AdaptiveMe/bower-adaptiveme.svg?branch=master)](https://travis-ci.org/AdaptiveMe/bower-adaptiveme) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/bower-adaptiveme.svg)](https://github.com/AdaptiveMe/bower-adaptiveme) [![Bower](https://img.shields.io/bower/v/adaptiveme.svg)](https://travis-ci.org/AdaptiveMe/bower-adaptiveme) | [![Codacy Badge](https://www.codacy.com/project/badge/41c1f612d1c3475eafc1343994706fb1)](https://www.codacy.com/public/carlos/bower-adaptiveme) |
 | [![Adaptive Generator for Yeoman](https://img.shields.io/badge/devtools-yeoman-yellow.svg)](https://github.com/AdaptiveMe/generator-adaptiveme) | [![Build Status](https://travis-ci.org/AdaptiveMe/generator-adaptiveme.svg?branch=master)](https://travis-ci.org/AdaptiveMe/generator-adaptiveme) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/generator-adaptiveme.svg)](https://github.com/AdaptiveMe/generator-adaptiveme) |  |
 | [![Adaptive Nibble for NodeJS](https://img.shields.io/badge/devtools-nibble-yellow.svg)](https://github.com/AdaptiveMe/npm-adaptiveme-nibble) | [![Build Status](https://travis-ci.org/AdaptiveMe/npm-adaptiveme-nibble.svg?branch=master)](https://travis-ci.org/AdaptiveMe/npm-adaptiveme-nibble) | [![GitHub tag](https://img.shields.io/github/tag/AdaptiveMe/npm-adaptiveme-nibble.svg)](https://github.com/AdaptiveMe/npm-adaptiveme-nibble) |  |
+
+## Work Backlog
+
+[![Throughput Graph](https://graphs.waffle.io/adaptiveme/adaptiveme.github.io/throughput.svg)](https://waffle.io/adaptiveme/adaptiveme.github.io/metrics)
 
 ## Ideas, Suggestions and Requirements
 If you have any ideas, suggestions or requirements that affect the whole Adaptive Runtime Platform (ARP), please open an issue [here](https://github.com/AdaptiveMe/AdaptiveMe.github.io/issues). We welcome any contributions to make the Adaptive Runtime Platform (ARP) better:
