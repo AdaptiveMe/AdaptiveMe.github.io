@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Building & Installing
 keywords: adaptive installing app building help cloud building installing adaptive cloud
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: Getting started - Building & Installing your App with Adaptive on your iOS, Android or Windows device. 
 class: fa fa-building-o
 sitemap:
 priority: 1.0

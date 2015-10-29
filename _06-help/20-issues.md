@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Issue Tracker
 keywords: adaptive build distribute create apps develop distribute apps create develop
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: Issue Tracker - Report issues, suggestions and ideas and we'll love you!
 class: fa fa-bug
 sitemap:
 priority: 1.0

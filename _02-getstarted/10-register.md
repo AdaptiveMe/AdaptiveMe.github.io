@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Register with Adaptive
 keywords: adaptive register app developers help cloud register adaptive adaptive cloud
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: Getting started - Register with Adaptive and manage your account. 
 class: fa fa-sign-in
 sitemap:
 priority: 1.0

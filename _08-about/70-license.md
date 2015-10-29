@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Licenses
 keywords: adaptive license work derivative shall conditions derivative works shall mean
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: Adaptive Platform opensource is licensed under Apache Public License v2.0. 
 class: fa fa-balance-scale
 sitemap:
 priority: 1.0

@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: General Q's
 keywords: adaptive app general help build cloud adaptive cloud
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: FAQ - General and Frequently Asked Questions about the Adaptive Platform. 
 class: fa fa-question-circle
 sitemap:
 priority: 1.0

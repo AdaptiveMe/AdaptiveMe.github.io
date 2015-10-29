@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Thanks & Recognition
 keywords: adaptive providing app developers thanks recognition thanks recognition open source
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: Thanks & Recognition - Digital Ocean, Docker, JetBrains, JHipster, MacStadium, TeamDev, Travis CI, Vagrant and other. 
 class: fa fa-thumbs-o-up
 sitemap:
 priority: 1.0
