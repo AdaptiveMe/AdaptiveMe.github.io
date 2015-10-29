@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: General Q's
-keywords: adaptive
+keywords: adaptive app general help build cloud adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-question-circle
 sitemap:

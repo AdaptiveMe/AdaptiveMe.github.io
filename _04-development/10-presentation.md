@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Adaptive Presentation
-keywords: adaptive
+keywords: adaptive presentation app developers help cloud adaptive presentation adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-film
 sitemap:

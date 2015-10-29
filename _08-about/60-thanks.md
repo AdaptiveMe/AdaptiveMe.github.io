@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Thanks & Recognition
-keywords: adaptive
+keywords: adaptive providing app developers thanks recognition thanks recognition open source
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-thumbs-o-up
 sitemap:

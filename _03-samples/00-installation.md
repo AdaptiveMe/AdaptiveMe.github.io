@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Coming Soon!
-keywords: adaptive
+keywords: adaptive soon app coming help cloud coming soon adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-file-code-o
 sitemap:

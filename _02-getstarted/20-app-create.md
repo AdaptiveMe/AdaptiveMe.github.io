@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Creating an App
-keywords: adaptive
+keywords: adaptive app creating developers cloud build creating app adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-file-code-o
 sitemap:

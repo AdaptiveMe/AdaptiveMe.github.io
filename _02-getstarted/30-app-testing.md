@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Testing your App
-keywords:
+keywords: adaptive app testing cloud build developers testing app adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-flask
 sitemap:

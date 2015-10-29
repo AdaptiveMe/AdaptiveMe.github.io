@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Install your Environment
-keywords: adaptive
+keywords: adaptive app environment install help	cloud install environment adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-desktop
 sitemap:

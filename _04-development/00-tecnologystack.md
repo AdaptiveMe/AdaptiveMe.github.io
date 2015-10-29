@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Technology Stack
-keywords: adaptive
+keywords: adaptive stack app technology help cloud technology stack adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-cogs
 sitemap:

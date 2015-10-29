@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: App Developers
-keywords: adaptive
+keywords: adaptive app developers cloud help build app developers adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-cube
 sitemap:

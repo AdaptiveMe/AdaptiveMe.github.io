@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Building & Installing
-keywords: adaptive
+keywords: adaptive installing app building help cloud building installing adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-building-o
 sitemap:

@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Issue Tracker
-keywords: adaptive
+keywords: adaptive build distribute create apps develop distribute apps create develop
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-bug
 sitemap:

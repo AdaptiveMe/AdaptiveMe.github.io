@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: All Pages
-keywords: adaptive
+keywords: adaptive develop apps build distribute root build distribute develop build
 description: Create, Develop, Build & Distribute Apps As-A-Service.
 class: fa fa-file-text-o
 class_value:
@@ -28,7 +28,7 @@ lastmod: 2014-10-21T00:00:00-00:00
         {% for p in site.pages %}
         <tr>
             <td>ROOT</td>
-            <td><a href="{{p.url}}">{{p.url}}</a></td>
+            <td><a href="http://www.adaptive.tools{{p.url}}">{{p.url}}</a></td>
             <td>{{p.description}}</td>
             <td>{{p.keywords}}</td>
             <td>{{p.title}}</td>
@@ -38,7 +38,7 @@ lastmod: 2014-10-21T00:00:00-00:00
             {% for p in c.docs %}
         <tr>
             <td>{{c."label"}}</td>
-            <td><a href="{{p.url}}">{{p.url}}</a></td>
+            <td><a href="http://www.adaptive.tools{{p.url}}">{{p.url}}</a></td>
             <td>{{p.description}}</td>
             <td>{{p.keywords}}</td>
             <td>{{p.title}} | adaptive.me</td>

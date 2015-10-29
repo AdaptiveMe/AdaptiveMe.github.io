@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Licenses
-keywords: adaptive
+keywords: adaptive license work derivative shall conditions derivative works shall mean
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-balance-scale
 sitemap:
