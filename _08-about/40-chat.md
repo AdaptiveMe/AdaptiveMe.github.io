@@ -49,6 +49,7 @@ lastmod: 2015-10-27T11:07:00+01:00
 
 ## Follow the development team
 
+
 <br/>
 <div class="row">
     {% for p in site.developers %}
