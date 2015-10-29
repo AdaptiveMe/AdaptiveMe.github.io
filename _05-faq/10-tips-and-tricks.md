@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Tips 'n' Tricks
+title: Tips & Tricks
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-diamond

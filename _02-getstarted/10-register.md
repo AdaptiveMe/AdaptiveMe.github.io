@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Getting Started - Register with Adaptive
+title: Register with Adaptive
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-sign-in

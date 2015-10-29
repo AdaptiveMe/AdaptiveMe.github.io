@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Development - The Adaptive Technology Stack
+title: Technology Stack
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-cogs

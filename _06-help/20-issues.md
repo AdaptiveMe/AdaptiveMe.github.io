@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Help Reporting Issues
+title: Issue Tracker
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-bug

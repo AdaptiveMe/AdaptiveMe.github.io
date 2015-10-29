@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Getting Started - Install your Environment
+title: Install your Environment
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-desktop

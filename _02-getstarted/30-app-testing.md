@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Getting Started - Testing your App
+title: Testing your App
 keywords:
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-flask
