@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="author" content="Carlos Lozano Diez">
+    <meta name="keywords" content="{{ page.keywords }}"/>
+    <meta name="copyright" content="Copyright (c) 2013-2016 Carlos Lozano Diez t/a adaptive.me. All rights reserved."/>
+    <meta name="robots" content="index, follow"/>
+    <meta name="DC.title" content="{{ page.title }}"/>
+    <meta name="twitter:card" content="summary_large_image"/>
+    <meta name="twitter:site" content="@adaptiveme"/>
+    <meta name="twitter:title" content="{{ page.title }}"/>
+    <meta name="twitter:description" content="{{ page.description }}"/>
+    <meta name="twitter:image:src" content="http://www.adaptive.tools/assets/adaptive/logo-512x512.png"/>
+    <meta name="twitter:url" content="http://www.adaptive.tools{{page.url}}"/>
+    <title>{{ page.title }} | adaptive.me</title>
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.9/css/dataTables.bootstrap.min.css">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/metisMenu/2.2.0/metisMenu.min.css">
+    <link href="{{ site.url }}/css/sb-admin-2.css" rel="stylesheet">
+    <link href="{{ site.url }}/css/app.css" rel="stylesheet">
+    <!-- Fonts -->
+    <link href="{{ site.url }}/fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,700,600italic,600,400italic' rel='stylesheet' type='text/css'>
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <!-- Favicon with QHD -->
+    <link rel="icon" type="image/png" href="/assets/adaptive/trademark-a1-64x64.png" sizes="64x64"/>
+    <link rel="icon" type="image/png" href="/assets/adaptive/trademark-a1-48x48.png" sizes="48x48"/>
+    <link rel="icon" type="image/png" href="/assets/adaptive/trademark-a1-32x32.png" sizes="32x32"/>
+    <link rel="icon" type="image/png" href="/assets/adaptive/trademark-a1-16x16.png" sizes="16x16"/>
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-MFLCTW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script>
+    (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+        var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-MFLCTW');
+</script>
+<!-- End Google Tag Manager -->
+    <div id="wrapper">
+        <!-- Sidebar -->
+        <nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="fa fa-bars"></span>
+                </button>
+                <a class="navbar-brand" href="{{ site.url }}/">adaptive</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="navbar-default sidebar" role="navigation">
+                <div class="sidebar-nav navbar-collapse">
+                    <ul class="nav" id="side-menu">
+
+                        <li {% if page.url =="/index.html" %} class="active"{% endif %}>
+                            <a href="{{ site.url }}/"><i class="fa fa-home" style="width: 20px;"></i> Home</a>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-road" style="width: 20px;"></i> Getting Started<span class="fa fa-angle-right pull-right"></span></a>
+                            <ul class="nav nav-second-level">
+                                {% for p in site.02-getstarted %}
+                                <li {% if page.url == p.url %} class="active" {% endif %}>
+                                    <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-file-code-o" style="width: 20px;"></i> Samples<span class="fa fa-angle-right pull-right"></span></a>
+                            <ul class="nav nav-second-level">
+                                {% for p in site.03-samples %}
+                                <li {% if page.url == p.url %} class="active" {% endif %}>
+                                    <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-code" style="width: 20px;"></i> Development<span class="fa fa-angle-right pull-right"></span></a>
+                            <ul class="nav nav-second-level">
+                                {% for p in site.04-development %}
+                                <li {% if page.url == p.url %} class="active" {% endif %}>
+                                    <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-puzzle-piece" style="width: 20px;"></i> FAQ<span class="fa fa-angle-right pull-right"></span></a>
+                            <ul class="nav nav-second-level">
+                                {% for p in site.05-faq %}
+                                <li {% if page.url == p.url %} class="active" {% endif %}}>
+                                    <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-medkit" style="width: 20px;"></i> Help & Bugs<span class="fa fa-angle-right pull-right"></span></a>
+                            <ul class="nav nav-second-level">
+                                {% for p in site.06-help %}
+                                <li {% if page.url == p.url %} class="active" {% endif %}>
+                                    <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-file-text" style="width: 20px;"></i> Release notes<span class="fa fa-angle-right pull-right"></span></a>
+                            <ul class="nav nav-second-level">
+                                {% for p in site.07-releases %}
+                                <li {% if page.url == p.url %} class="active" {% endif %}>
+                                    <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="#"><i class="fa fa-star" style="width: 20px;"></i> About<span class="fa fa-angle-right pull-right"></span></a>
+                            <ul class="nav nav-second-level">
+                                {% for p in site.08-about %}
+                                <li {% if page.url == p.url %} class="active" {% endif %}>
+                                    <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
+                                </li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        <li>
+                            <script>
+                                (function () {
+                                    var cx = '004101558154400153912:g6fdtpojrlu';
+                                    var gcse = document.createElement('script');
+                                    gcse.type = 'text/javascript';
+                                    gcse.async = true;
+                                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//cse.google.com/cse.js?cx=' + cx;
+                                    var s = document.getElementsByTagName('script')[0];
+                                    s.parentNode.insertBefore(gcse, s);
+                                })();
+                            </script>
+                            <gcse:search></gcse:search>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <div id="page-wrapper">
+            {% if page.layout_grid == true %}
+            {{ content }}
+            {% else %}
+            <div class="row">
+                <div class="col-lg-12">
+                    {{ content }}
+                </div>
+            </div>
+            <!-- /.row -->
+            {% endif %}
+            {% include footer.html %}
+        </div>
+    </div>
+    <!-- /#page-wrapper -->
+    </div><!-- /#wrapper -->
+
+    <!-- JavaScript -->
+    <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    <script src="https://cdn.datatables.net/1.10.9/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.9/js/dataTables.bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/metisMenu/2.2.0/metisMenu.min.js"></script>
+    <script src="{{ site.url }}/js/sb-admin-2.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-43736133-4', 'www.adaptive.tools');
+        ga('send', 'pageview');
+
+    </script>
+    <script type="application/ld+json">
+            {
+              "@context": "http://schema.org",
+              "@type": "Organization",
+              "url": "http://www.adaptive.tools{{page.url}}",
+              "logo": "http://www.adaptive.tools/assets/adaptive/logo-512x512.png",
+              "name" : "Adaptive.me",
+              "sameAs" : [ "https://twitter.com/adaptiveme",
+                "https://github.com/adaptiveme/"]
+            }
+    </script>
+</body>
+</html>

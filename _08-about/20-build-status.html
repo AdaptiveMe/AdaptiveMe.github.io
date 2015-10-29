@@ -1,0 +1,56 @@
+---
+layout: default
+layout_grid: true
+title: Build Status
+keywords: adaptive
+description: JHipster is a fully Open Source, widely used application generator. It leverages cool technologies like Spring Boot, AngularJS and Yeoman to give you a high level of productivity and quality.
+class: fa fa-building-o
+sitemap:
+priority: 1.0
+lastmod: 2015-10-27T11:07:00+01:00
+---
+
+<h1><i class="{{ page.class }}" style="width: 55px;">{{ page_class_value }}</i> {{page.title}}</h1>
+<h2>Build, Versions & Releases <img src="/images/dancing-banana.gif" width="24px" height="24px"></h2>
+<p><i class="fa fa-info-circle" style="padding-left: 4px;width: 20px;color: green;"></i>Nothing on TV? Watch our TravisTV channels live on <a href="/apps/travis/#/board/owner_name/AdaptiveMe" target="AdaptiveWallboard"><b>Adaptive</b></a> and <a href="/apps/travis/#/board/owner_name/AdaptiveCommunity" target="AdaptiveCommunityWallboard"><b>Adaptive Community</b></a> live!</p>
+<div class="table-responsive">
+    <table id="builds" class="table table-striped">
+        <thead>
+        <tr>
+            <th>Project</th>
+            <th>Type</th>
+            <th>Tech</th>
+            <th>Build Status</th>
+            <th>Version</th>
+            <th>Release</th>
+            <th>Release Repo</th>
+            <th>Release Deps</th>
+            <th>Quality</th>
+            <th>Issues</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for p in site.projects %}
+        <tr>
+            <td><a href="https://github.com/AdaptiveMe/{{p.project_slug}}" target="project_{{p.project_slug}}">{{p.project_slug}}</a>
+            </td>
+            <td>{{p.project_type}}</td>
+            <td>{{p.project_tech}}</td>
+            <td><a href="https://travis-ci.org/AdaptiveMe/{{p.project_slug}}" target="build_{{p.project_slug}}"><img
+                    src="https://api.travis-ci.org/AdaptiveMe/{{p.project_slug}}.svg?branch=master"></a></td>
+            <td><a href="https://github.com/AdaptiveMe/{{p.project_slug}}" target="version_{{p.project_slug}}"><img
+                    src="http://i.4dp.me/github/tag/AdaptiveMe/{{p.project_slug}}.svg"></a> {{p.project_version_extra}}
+            </td>
+            <td><a href="https://github.com/AdaptiveMe/{{p.project_slug}}/releases" target="release_{{p.project_slug}}"><img
+                    src="http://i.4dp.me/github/release/AdaptiveMe/{{p.project_slug}}.svg"></a></td>
+            <td>{{p.project_release_extra}}</td>
+            <td>{{p.project_dependencies}}</td>
+            <td>{{p.project_quality}}</td>
+            <td><a href="https://github.com/AdaptiveMe/{{p.project_slug}}/issues"
+                   target="issues_{{p.project_slug}}"><img src="http://i.4dp.me/github/issues/AdaptiveMe/{{p.project_slug}}.svg"></a></td>
+        </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+<br/>

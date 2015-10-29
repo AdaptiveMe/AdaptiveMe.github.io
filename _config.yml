@@ -1,0 +1,38 @@
+safe:        true
+markdown: kramdown
+collections:
+  01-home:
+    output: true
+    permalink: /awesome/:path/
+  02-getstarted:
+    output: true
+    permalink: /start/:path/
+  03-samples:
+    output: true
+    permalink: /samples/:path/
+  04-development:
+    output: true
+    permalink: /development/:path/
+  05-faq:
+    output: true
+    permalink: /faq/:path/
+  06-help:
+    output: true
+    permalink: /help/:path/
+  07-releases:
+    output: true
+    permalink: /releases/:path/
+    adaptive-cloud-cli:
+      output: true
+    adaptive-cloud:
+      output: true
+  08-about:
+    output: true
+    permalink: /about/:path/
+  projects:
+    output: true
+    permalink: /projects/:path/
+  developers:
+    output: true
+    permalink: /team/:path/
+
