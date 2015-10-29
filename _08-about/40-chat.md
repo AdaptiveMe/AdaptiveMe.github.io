@@ -14,13 +14,16 @@ lastmod: 2015-10-27T11:07:00+01:00
 
 <i class="fa fa-exclamation-triangle" style="padding-left: 4px;width: 25px;color: orange;"></i><i>Please note that we all do this in the spirit of Open Source.</i> All discussions are public, so that everyone can participate and help each other. Misbehaving on any of our channels -  _disrespect, flaming, insults, spamming_ - will not be tolerated. Not only will we ban you permanently but we'll also send Chuck Norris your way to kick your server-side. Keep it friendly - karma.
 
+
 ## Chat with the team and other users on Gitter
 
 * [Main Room](https://gitter.im/AdaptiveMe/AdaptiveMe.github.io) - For general chat.
 
+
 ## Discuss with the team and other users on Google Groups
 
 * [General Group](https://groups.google.com/forum/#!forum/adaptive-general) - For general
+
 
 ## Report issues, request features on GitHub
 
@@ -47,8 +50,8 @@ lastmod: 2015-10-27T11:07:00+01:00
     </table>
 </div>
 
-## Follow the development team
 
+## Follow the development team
 
 <br/>
 <div class="row">
