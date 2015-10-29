@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Contributing
 keywords: adaptive contributing open source code ideas suggestions requirements tutorial video art licenses
-description: Contribute to the Adaptive project on GitHub and we'll love you!
+description: Contributing - Contribute to the Adaptive project on GitHub and we'll love you!
 class: fa fa-code-fork
 sitemap:
 priority: 1.0

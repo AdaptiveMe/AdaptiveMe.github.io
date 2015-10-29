@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Testing your App
 keywords:
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: Getting started - Previewing and Testing your App with the Adaptive Nibble Emulator. 
 class: fa fa-flask
 sitemap:
 priority: 1.0

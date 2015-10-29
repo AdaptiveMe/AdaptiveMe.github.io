@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Technology Stack
 keywords: adaptive
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: The Adaptive Technology Stack; Docker, Vagrant, Cloud, Java, Spring, REST, TypeScript, JavaScript, HTML5, iOS, Android, Windows, Linux & OSX. Full Stack Developer heaven to bring you powerful App development tools.
 class: fa fa-cogs
 sitemap:
 priority: 1.0
