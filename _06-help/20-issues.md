@@ -1,9 +1,9 @@
 ---
 layout: default
 layout_grid: true
-title: Bug Tracker
+title: Help Reporting Issues
 keywords: adaptive
-description: JHipster is a fully Open Source, widely used application generator. It leverages cool technologies like Spring Boot, AngularJS and Yeoman to give you a high level of productivity and quality.
+description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-bug
 sitemap:
 priority: 1.0

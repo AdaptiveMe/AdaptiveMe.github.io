@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Adaptive
 keywords: adaptive
-description: JHipster is a fully Open Source, widely used application generator. It leverages cool technologies like Spring Boot, AngularJS and Yeoman to give you a high level of productivity and quality.
+description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-industry
 class_value:
 project_slug: adaptive-arp-javafx

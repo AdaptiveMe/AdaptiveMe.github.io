@@ -1,0 +1,52 @@
+---
+layout: default
+layout_grid: true
+title: All Pages
+keywords: adaptive
+description: Create, Develop, Build & Distribute Apps As-A-Service.
+class: fa fa-file-text-o
+class_value:
+sitemap:
+priority: 1.0
+lastmod: 2014-10-21T00:00:00-00:00
+---
+
+<h1><i class="{{ page.class }}" style="width: 55px;">{{ page_class_value }}</i> {{page.title}}</h1>
+
+<div class="table-responsive">
+    <table id="seo" class="table table-striped">
+        <thead>
+        <tr>
+            <th>Collection</th>
+            <th>URL</th>
+            <th>Description</th>
+            <th>Keywords</th>
+            <th>Title</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for p in site.pages %}
+        <tr>
+            <td>ROOT</td>
+            <td><a href="{{p.url}}">{{p.url}}</a></td>
+            <td>{{p.description}}</td>
+            <td>{{p.keywords}}</td>
+            <td>{{p.title}}</td>
+        </tr>
+        {% endfor %}
+        {% for c in site.collections %}
+            {% capture label %}{{ c | first }}{% endcapture %}
+            {% for p in site.collections.[label].docs %}
+        <tr>
+            <td>{{label}}</td>
+            <td><a href="{{p.url}}">{{p.url}}</a></td>
+            <td>{{p.description}}</td>
+            <td>{{p.keywords}}</td>
+            <td>{{p.title}} | adaptive.me</td>
+        </tr>
+            {% endfor %}
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+<br/>
