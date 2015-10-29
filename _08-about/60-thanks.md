@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: About Our Helpers and Sponsors; A 1000 Thanks!
+title: Thanks & Recognition
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-thumbs-o-up

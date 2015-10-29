@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Getting Started - Creating an App
+title: Creating an App
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-file-code-o

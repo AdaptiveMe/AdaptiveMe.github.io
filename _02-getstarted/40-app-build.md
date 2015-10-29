@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Getting Started - Building and Installing
+title: Building & Installing
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-building-o

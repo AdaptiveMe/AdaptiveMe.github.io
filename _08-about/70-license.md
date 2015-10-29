@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Adaptive Open Source is Apache License v2.0
+title: Licenses
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-balance-scale

@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Development for Platform Developers
+title: Platform Developers
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-cubes

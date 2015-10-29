@@ -1,7 +1,7 @@
 ---
 layout: default
 layout_grid: true
-title: Development - The Adaptive Technology Presentation
+title: Adaptive Presentation
 keywords: adaptive
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-film
