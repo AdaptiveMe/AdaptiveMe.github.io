@@ -2,8 +2,8 @@
 layout: default
 layout_grid: true
 title: Platform Developers
-keywords: adaptive
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+keywords: adaptive developers app platform help build platform developers adaptive cloud
+description: Development - Adaptive for Platform Developers. Contributing to and extending the Adaptive Runtime Platform for your Device and OS of choice. 
 class: fa fa-cubes
 sitemap:
 priority: 1.0

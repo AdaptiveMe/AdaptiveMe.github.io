@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Adaptive
-keywords: adaptive
+keywords: adaptive app developers help cloud build adaptive cloud
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-industry
 class_value:

@@ -2,8 +2,8 @@
 layout: default
 layout_grid: true
 title: Troubleshooting
-keywords: adaptive
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+keywords: adaptive troubleshooting app developers help cloud adaptive cloud
+description: Troubleshooting common problems using the Adaptive tools and runtime.
 class: fa fa-wrench
 sitemap:
 priority: 1.0

@@ -2,8 +2,8 @@
 layout: default
 layout_grid: true
 title: Adaptive Presentation
-keywords: adaptive
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+keywords: adaptive presentation app developers help cloud adaptive presentation adaptive cloud
+description: The Adaptive Presentation - From Idea to Creating, Developing, Building & Distributing Apps As-A-Service. Where we come from and where we are going!
 class: fa fa-film
 sitemap:
 priority: 1.0

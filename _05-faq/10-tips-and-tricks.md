@@ -2,8 +2,8 @@
 layout: default
 layout_grid: true
 title: Tips & Tricks
-keywords: adaptive
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+keywords: adaptive app tips tricks help build tips tricks adaptive cloud
+description: Tips & Tricks - How to get things done more elegantly in your App using Adaptive.
 class: fa fa-diamond
 sitemap:
 priority: 1.0
