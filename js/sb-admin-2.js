@@ -62,3 +62,13 @@ $(document).ready(function () {
         "order": [[ 1, "asc" ]]
     });
 });
+
+$(document).ready(function () {
+    $('#seo').DataTable({
+        "paging": false,
+        "ordering": true,
+        "info": true,
+        "searching": true,
+        "order": [[ 0, "asc" ]]
+    });
+});

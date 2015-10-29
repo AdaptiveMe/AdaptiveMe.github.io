@@ -1,9 +1,9 @@
 ---
 layout: default
 layout_grid: true
-title: Adaptive
-keywords: adaptive about multiplatform multiscreen app development native hybrid we are adaptive
-description: About Adaptive - multi-platform, multi-screen app development and build environment as-a-service.
+title: About Adaptive
+keywords: adaptive app development build opensource adaptive cloud hybrid apps native apps multiplatform multiscreen ios android windows osx linux
+description: About Adaptive - Multiplatform, Multiscreen - Develop, Build and Distribute Apps As-A-Service.
 class: fa fa-industry
 class_value:
 sitemap:
@@ -16,19 +16,19 @@ lastmod: 2015-10-27T11:07:00+01:00
 
 ## We Are Adaptive
 
-Adaptive is a **multi-platform, multi-screen app development and build environment** that provides the right tools crafted for and by developers, designers and testers like you.
+Adaptive is a **multiplatform, multiscreen app development and build environment** that provides the right tools crafted for and by developers, designers and testers like you.
 We strive to build a better way to create **Native and HTML5 hybrid apps** for mobile, web and everywhere.
-Adaptive is comprised of a series of PaaS (Platform-As-A-Service) development tools and build services (Build-As-A-Service) for our own open-source native runtime as well as supporting other popular runtimes (PhoneGap, Cordova, etc.) to encapsulate hybrid apps on a diversity of platforms.
-We're open-source to facilitate co-creation, contribution and build as diverse a community as possible around this project!
+Adaptive is comprised of a series of PaaS (Platform-As-A-Service) development tools and build services (Build-As-A-Service) for our own opensource native runtime as well as supporting other popular runtimes (PhoneGap, Cordova, etc.) to encapsulate hybrid apps on a diversity of platforms.
+We're opensource to facilitate co-creation, contribution and build as diverse a community as possible around this project!
 
 Do we really need YAAP (Yet Another App Platform)? Yes, we do.
 
-* Adaptive **is focused on** being coherent, facilitating design, accelerating development, fostering innovation, delivering performance and simplifying app security.
+* Adaptive **is focused on** being coherent, facilitating design, accelerating development, fostering innovation, delivering performance and simplifying app security during the development of apps for Android, iOS, Linux, OSX and Windows on whichever form-factor they target.
 * Adaptive **is not focused**  on supporting the maximum number of operating systems at the cost of incoherent APIs on each platform, restrictions on the use of frameworks, complicated commands and tools, some code being closed-source, mostly tolerable performance and leaving security up to you. In fact, if you have experiences with other frameworks, we'd like to hear from you so that we can make it collectively better.
 * Adaptive is **independent**, our developments are guided by what we as a team deem to be the best possible technical solution.
 * Adaptive **can not be found** on a Gartner or Forrester report. _We're too poor._
 
-And, yes, we need to make some money at some stage to feed our developers and pet hamsters - yours truly included - all donations of funds and materials for the development and support of these open-source projects are very welcome. But first, we'll keep on hacking to make the best possible platform for all developers out there.
+And, yes, we need to make some money at some stage to feed our developers and pet hamsters - yours truly included - all donations of funds and materials for the development and support of these opensource projects are very welcome. But first, we'll keep on hacking to make the best possible platform for all developers out there.
 
 For more information please visit [adaptive.me](http://adaptive.me).
 
