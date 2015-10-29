@@ -1,0 +1,117 @@
+---
+layout: 
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for post in site.posts %}
+    <url>
+      <loc>http://www.adaptive.tools{{ post.url }}</loc>
+      {% if post.lastmod == null %}
+        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      {% else %}
+        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+      {% endif %}
+      <changefreq>daily</changefreq>
+      <priority>0.5</priority>
+    </url>
+  {% endfor %}
+  <url>
+      <loc>http://www.adaptive.tools/presentation</loc>
+      <changefreq>daily</changefreq>
+      <priority>0.6</priority>
+  </url>
+  {% for page in site.pages %}
+    {% if page.sitemap != null and page.sitemap != empty %}
+      <url>
+        <loc>http://www.adaptive.tools{{ page.url }}</loc>
+        <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>{{ page.sitemap.priority }}</priority>
+       </url>
+    {% endif %}
+  {% endfor %}
+  {% for post in site.02-getstarted %}
+  <url>
+    <loc>http://www.adaptive.tools{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+  {% for post in site.03-samples %}
+  <url>
+    <loc>http://www.adaptive.tools{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+  {% for post in site.04-development %}
+  <url>
+    <loc>http://www.adaptive.tools{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  {% endfor %}
+  {% for post in site.05-faq %}
+  <url>
+    <loc>http://www.adaptive.tools{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+  {% for post in site.06-help %}
+  <url>
+    <loc>http://www.adaptive.tools{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+  {% for post in site.07-releases %}
+  <url>
+    <loc>http://www.adaptive.tools{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+  {% for post in site.08-about %}
+  <url>
+    <loc>http://www.adaptive.tools{{ post.url }}</loc>
+    {% if post.lastmod == null %}
+    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    {% else %}
+    <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+    {% endif %}
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  {% endfor %}
+</urlset>
