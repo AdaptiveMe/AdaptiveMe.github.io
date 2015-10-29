@@ -11,7 +11,7 @@ priority: 1.0
 lastmod: 2014-10-21T00:00:00-00:00
 ---
 
-<h1><i class="{{ page.class }}" style="width: 55px;">{{ page_class_value }}</i> {{page.title}}</h1>
+<h1><i class="{{ page.class }}" style="width: 55px;">{{ page_class_value }}</i> {{page.title}} - Jekyll 3.0</h1>
 
 <div class="table-responsive">
     <table id="seo" class="table table-striped">
@@ -35,10 +35,9 @@ lastmod: 2014-10-21T00:00:00-00:00
         </tr>
         {% endfor %}
         {% for c in site.collections %}
-            {% capture label %}{{ c | first }}{% endcapture %}
-            {% for p in site.collections.[label].docs %}
+            {% for p in c.docs %}
         <tr>
-            <td>{{label}}</td>
+            <td>{{c."label"}}</td>
             <td><a href="{{p.url}}">{{p.url}}</a></td>
             <td>{{p.description}}</td>
             <td>{{p.keywords}}</td>
