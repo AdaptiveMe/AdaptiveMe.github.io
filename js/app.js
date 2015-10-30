@@ -1,29 +1,33 @@
 
 $(document).ready(function () {
 
-    $('#builds').DataTable({
+
+    $('#table-build').DataTable({
         "paging": false,
         "ordering": true,
         "info": false,
         "searching": true,
-        "order": [[ 1, "asc" ]]
+        "order": [[1, "asc"]]
     });
 
-    $('#projects').DataTable({
+
+    $('#table-projects').DataTable({
         "paging": false,
         "ordering": true,
         "info": false,
         "searching": true,
-        "order": [[ 1, "asc" ]]
+        "order": [[1, "asc"]]
     });
 
-    $('#seo').DataTable({
+
+    $('#table-seo').DataTable({
         "paging": false,
         "ordering": true,
         "info": true,
         "searching": true,
-        "order": [[ 0, "asc" ]]
+        "order": [[0, "asc"]]
     });
+
 
     $('.diagram').each(function(i, obj) {
         $(obj).sequenceDiagram({theme: 'hand'});
