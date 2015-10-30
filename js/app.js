@@ -24,5 +24,8 @@ $(document).ready(function () {
         "searching": true,
         "order": [[ 0, "asc" ]]
     });
-});
 
+    $('.diagram').each(function(i, obj) {
+        $(obj).sequenceDiagram({theme: 'hand'});
+    });
+});

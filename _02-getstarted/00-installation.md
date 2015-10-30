@@ -78,3 +78,4 @@ Install Adaptive CLI globally and you'll have access to the *adaptive* command a
 * Install with <code> npm install -g adaptive-cloud-cli </code>
 
 **Note:** If you're on **Mac OSX** and didn't install NodeJS using Homebrew, you may need to install the above package using <code>sudo</code>. If you're on **Linux**, depending on your distro, this may also be the case. You should install the above package with <code> sudo npm install -g adaptive-cloud-cli </code>.
+
