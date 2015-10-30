@@ -1,4 +1,6 @@
+
 $(document).ready(function () {
+
     $('#builds').DataTable({
         "paging": false,
         "ordering": true,
@@ -6,9 +8,7 @@ $(document).ready(function () {
         "searching": true,
         "order": [[ 1, "asc" ]]
     });
-});
 
-$(document).ready(function () {
     $('#projects').DataTable({
         "paging": false,
         "ordering": true,
