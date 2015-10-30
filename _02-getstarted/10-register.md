@@ -17,5 +17,4 @@ lastmod: 2015-10-27T11:07:00+01:00
     User->Adaptive CLI: register
     Note right of Adaptive CLI: - Email\n- Username\n- Password
     Adaptive CLI->Adaptive Cloud: register user
-    
 </div>

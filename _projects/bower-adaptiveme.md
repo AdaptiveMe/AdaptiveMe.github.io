@@ -8,7 +8,7 @@ class: fa fa-industry
 class_value:
 project_slug: bower-adaptiveme
 project_type: DevTools
-project_tech: NodeJS
+project_tech: JavaScript
 project_quality:            <a hred="https://www.codacy.com/public/carlos/bower-adaptiveme"><img src="https://www.codacy.com/project/badge/41c1f612d1c3475eafc1343994706fb1"></a>
 project_release_extra:      <a href="http://bower.io/search/?q=adaptiveme"><img src="http://i.4dp.me/bower/v/adaptiveme.svg"></a>
 project_version_extra:
