@@ -3,7 +3,7 @@ layout: default
 layout_grid: true
 title: Adaptive
 keywords: adaptive app developers help cloud build adaptive cloud
-description: Create, Develop, Build & Distribute Apps As-A-Service. 
+description: Adaptive Runtime Library for TypeScript to JavaScript Web applications.
 class: fa fa-industry
 class_value:
 project_slug: adaptive-arp-typescript

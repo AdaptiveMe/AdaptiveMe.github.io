@@ -2,7 +2,7 @@
 layout: default
 layout_grid: true
 title: Adaptive
-keywords: adaptive app developers help cloud build adaptive cloud
+keywords: Adaptive Cloud CLI (Command Line Interface) to the Adaptive Cloud Services.
 description: Create, Develop, Build & Distribute Apps As-A-Service. 
 class: fa fa-industry
 class_value:
