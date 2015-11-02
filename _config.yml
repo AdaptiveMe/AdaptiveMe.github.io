@@ -32,6 +32,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  products:
+    output: true
+    permalink: /products/:path/
   developers:
     output: true
     permalink: /team/:path/
