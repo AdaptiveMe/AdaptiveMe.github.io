@@ -135,18 +135,18 @@
                                 {% endfor %}
                             </ul>
                         </li>
-                        <!--
                         <li>
                             <a href="#"><i class="fa fa-file-text" style="width: 20px;"></i> Release notes<span class="fa fa-angle-right pull-right"></span></a>
                             <ul class="nav nav-second-level">
                                 {% for p in site.07-releases %}
-                                <li {% if page.url == p.url %} class="active" {% endif %}>
+                                {% if p.isrelease == %}
+                                <li {% if page.url contains p.url %} class="active" {% endif %}>
                                     <a href="{{p.url}}"><i class="{{p.class}}" style="width: 20px;">{{p.class_value}}</i> {{p.title}}</a>
                                 </li>
+                                {% endif %}
                                 {% endfor %}
                             </ul>
                         </li>
-                        -->
                         <li>
                             <a href="#"><i class="fa fa-star" style="width: 20px;"></i> About<span class="fa fa-angle-right pull-right"></span></a>
                             <ul class="nav nav-second-level">
